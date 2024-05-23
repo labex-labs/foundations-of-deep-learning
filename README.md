@@ -11,7 +11,7 @@ In this course, you will learn the basic concepts of deep learning, including th
 
 ## Scenarios
 
-|   Index | Name                                                 | Difficulty   | URL                                                                 |
+|   Index | Name                                                 | Difficulty   | Practice                                                            |
 |---------|------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Introduction to Deep Learning                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20790'>Start Lab</a> |
 |       2 | 📖 Guide of Tensorflow                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20777'>Start Lab</a> |
@@ -20,4 +20,9 @@ In this course, you will learn the basic concepts of deep learning, including th
 |       5 | 📖 Build a Sequential Model With Keras                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20751'>Start Lab</a> |
 |       6 | 📖 Guide of PyTorch                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20776'>Start Lab</a> |
 |       7 | 📖 Linear Regression With PyTorch                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20798'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
