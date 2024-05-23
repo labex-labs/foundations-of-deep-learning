@@ -23,6 +23,7 @@ In this course, you will learn the basic concepts of deep learning, including th
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
