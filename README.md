@@ -1,6 +1,6 @@
 # Foundations of Deep Learning
 
-![Foundations of Deep Learning](https://cover-creator.labex.io/foundations-of-deep-learning.png)
+![Foundations of Deep Learning](https://cover-creator.appbot.io/foundations-of-deep-learning.png)
 
 In this course, you will learn the basic concepts of deep learning, including the basic principles of neural networks, the basic principles of TensorFlow, Keras and PyTorch, and the basic principles of linear regression, logistic regression, and multi-layer neural networks. You will also learn how to use TensorFlow, Keras and PyTorch to build a linear regression model, a logistic regression model, and a multi-layer neural network model.
 
