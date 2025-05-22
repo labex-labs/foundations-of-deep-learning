@@ -1,6 +1,6 @@
 # Foundations of Deep Learning
 
-[![Foundations of Deep Learning](https://cover-creator.appbot.io/foundations-of-deep-learning.png)](https://labex.io/courses/foundations-of-deep-learning)
+[![Foundations of Deep Learning](https://cover-creator.labex.io/foundations-of-deep-learning.png)](https://labex.io/courses/foundations-of-deep-learning)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/foundations-of-deep-learning)
 
@@ -17,7 +17,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -27,8 +27,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                 | Difficulty   | Practice                                                                                                                  |
-|---------|------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Difficulty   | Practice                                                                                                                  |
+|---------|-------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Introduction to Deep Learning                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-introduction-to-deep-learning-20790'>Start Lab</a>                      |
 |       2 | 📖 Guide of Tensorflow                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-guide-of-tensorflow-20777'>Start Lab</a>                                |
 |       3 | 📖 Building Multilayer Neural Network with TensorFlow | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Start Lab</a> |
