@@ -1,8 +1,12 @@
 # Foundations of Deep Learning
 
-[![Foundations of Deep Learning](https://cover-creator.labex.io/foundations-of-deep-learning.png)](https://labex.io/courses/foundations-of-deep-learning)
+## Languages
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/foundations-of-deep-learning)
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Foundations of Deep Learning](https://cover-creator.labex.io/foundations-of-deep-learning.png)](https://labex.io/en/courses/foundations-of-deep-learning)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/foundations-of-deep-learning)
 
 In this course, you will learn the basic concepts of deep learning, including the basic principles of neural networks, the basic principles of TensorFlow, Keras and PyTorch, and the basic principles of linear regression, logistic regression, and multi-layer neural networks. You will also learn how to use TensorFlow, Keras and PyTorch to build a linear regression model, a logistic regression model, and a multi-layer neural network model.
 
@@ -27,15 +31,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                  | Difficulty   | Practice                                                                                                                  |
-|---------|-------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Introduction to Deep Learning                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-introduction-to-deep-learning-20790'>Start Lab</a>                      |
-|       2 | 📖 Guide of Tensorflow                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-guide-of-tensorflow-20777'>Start Lab</a>                                |
-|       3 | 📖 Building Multilayer Neural Network with TensorFlow | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Start Lab</a> |
-|       4 | 📖 Guide of Keras                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-guide-of-keras-20775'>Start Lab</a>                                     |
-|       5 | 📖 Build a Sequential Model with Keras                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-build-a-sequential-model-with-keras-20751'>Start Lab</a>                |
-|       6 | 📖 Guide of PyTorch                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-guide-of-pytorch-20776'>Start Lab</a>                                   |
-|       7 | 📖 Linear Regression with PyTorch                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-linear-regression-with-pytorch-20798'>Start Lab</a>                     |
+|   Index | Name                                                  | Difficulty   | Practice                                                                                                                     |
+|---------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Introduction to Deep Learning                      | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-introduction-to-deep-learning-20790'>Start Lab</a>                      |
+|       2 | 📖 Guide of Tensorflow                                | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-guide-of-tensorflow-20777'>Start Lab</a>                                |
+|       3 | 📖 Building Multilayer Neural Network with TensorFlow | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Start Lab</a> |
+|       4 | 📖 Guide of Keras                                     | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-guide-of-keras-20775'>Start Lab</a>                                     |
+|       5 | 📖 Build a Sequential Model with Keras                | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-build-a-sequential-model-with-keras-20751'>Start Lab</a>                |
+|       6 | 📖 Guide of PyTorch                                   | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-guide-of-pytorch-20776'>Start Lab</a>                                   |
+|       7 | 📖 Linear Regression with PyTorch                     | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-linear-regression-with-pytorch-20798'>Start Lab</a>                     |
 
 ## More
 
