@@ -33,17 +33,17 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                         |
 |----------|------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 딥 러닝 소개                          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-deep-learning-20790'>실습 시작</a>                      |
-|        2 | 📖 Tensorflow 가이드                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-tensorflow-20777'>실습 시작</a>                                |
-|        3 | 📖 TensorFlow 를 사용한 다층 신경망 구축 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>실습 시작</a> |
-|        4 | 📖 Keras 가이드                          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-keras-20775'>실습 시작</a>                                     |
-|        5 | 📖 Keras 를 사용한 순차 모델 구축        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-build-a-sequential-model-with-keras-20751'>실습 시작</a>                |
-|        6 | 📖 PyTorch 가이드                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-pytorch-20776'>실습 시작</a>                                   |
-|        7 | 📖 PyTorch 를 이용한 선형 회귀           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-with-pytorch-20798'>실습 시작</a>                     |
+|        1 | 📖 딥 러닝 소개                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-deep-learning-20790'>실습 시작</a>                      |
+|        2 | 📖 Tensorflow 가이드                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-tensorflow-20777'>실습 시작</a>                                |
+|        3 | 📖 TensorFlow 를 사용한 다층 신경망 구축 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>실습 시작</a> |
+|        4 | 📖 Keras 가이드                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-keras-20775'>실습 시작</a>                                     |
+|        5 | 📖 Keras 를 사용한 순차 모델 구축        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-build-a-sequential-model-with-keras-20751'>실습 시작</a>                |
+|        6 | 📖 PyTorch 가이드                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-pytorch-20776'>실습 시작</a>                                   |
+|        7 | 📖 PyTorch 를 이용한 선형 회귀           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-with-pytorch-20798'>실습 시작</a>                     |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
