@@ -33,17 +33,17 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                        |
 |----------|----------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Introdução à Aprendizagem Profunda (Deep Learning)    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-introduction-to-deep-learning-20790'>Iniciar Lab</a>                      |
-|        2 | 📖 Guia do Tensorflow                                    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-tensorflow-20777'>Iniciar Lab</a>                                |
-|        3 | 📖 Construindo uma Rede Neural Multicamadas com Tenso... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Iniciar Lab</a> |
-|        4 | 📖 Guia do Keras                                         | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-keras-20775'>Iniciar Lab</a>                                     |
-|        5 | 📖 Construindo um Modelo Sequencial com Keras            | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-build-a-sequential-model-with-keras-20751'>Iniciar Lab</a>                |
-|        6 | 📖 Guia do PyTorch                                       | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-pytorch-20776'>Iniciar Lab</a>                                   |
-|        7 | 📖 Regressão Linear com PyTorch                          | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-linear-regression-with-pytorch-20798'>Iniciar Lab</a>                     |
+|        1 | 📖 Introdução à Aprendizagem Profunda (Deep Learning)    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-introduction-to-deep-learning-20790'>Iniciar Lab</a>                      |
+|        2 | 📖 Guia do Tensorflow                                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-tensorflow-20777'>Iniciar Lab</a>                                |
+|        3 | 📖 Construindo uma Rede Neural Multicamadas com Tenso... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Iniciar Lab</a> |
+|        4 | 📖 Guia do Keras                                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-keras-20775'>Iniciar Lab</a>                                     |
+|        5 | 📖 Construindo um Modelo Sequencial com Keras            | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-build-a-sequential-model-with-keras-20751'>Iniciar Lab</a>                |
+|        6 | 📖 Guia do PyTorch                                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-guide-of-pytorch-20776'>Iniciar Lab</a>                                   |
+|        7 | 📖 Regressão Linear com PyTorch                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-linear-regression-with-pytorch-20798'>Iniciar Lab</a>                     |
 
 ## Mais
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriais Gratuitos](https://github.com/labex-labs/ml-free-tutorials)
 
