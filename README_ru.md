@@ -33,17 +33,17 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                              |
 |----------|----------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Введение в глубокое обучение                          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-introduction-to-deep-learning-20790'>Начать Лабораторию</a>                      |
-|        2 | 📖 Руководство по TensorFlow                             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-tensorflow-20777'>Начать Лабораторию</a>                                |
-|        3 | 📖 Построение многослойной нейронной сети с использов... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Начать Лабораторию</a> |
-|        4 | 📖 Руководство по Keras                                  | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-keras-20775'>Начать Лабораторию</a>                                     |
-|        5 | 📖 Создать последовательную модель с помощью Keras       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-build-a-sequential-model-with-keras-20751'>Начать Лабораторию</a>                |
-|        6 | 📖 Руководство по PyTorch                                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-pytorch-20776'>Начать Лабораторию</a>                                   |
-|        7 | 📖 Линейная регрессия с использованием PyTorch           | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-linear-regression-with-pytorch-20798'>Начать Лабораторию</a>                     |
+|        1 | 📖 Введение в глубокое обучение                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-introduction-to-deep-learning-20790'>Начать Лабораторию</a>                      |
+|        2 | 📖 Руководство по TensorFlow                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-tensorflow-20777'>Начать Лабораторию</a>                                |
+|        3 | 📖 Построение многослойной нейронной сети с использов... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Начать Лабораторию</a> |
+|        4 | 📖 Руководство по Keras                                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-keras-20775'>Начать Лабораторию</a>                                     |
+|        5 | 📖 Создать последовательную модель с помощью Keras       | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-build-a-sequential-model-with-keras-20751'>Начать Лабораторию</a>                |
+|        6 | 📖 Руководство по PyTorch                                | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-guide-of-pytorch-20776'>Начать Лабораторию</a>                                   |
+|        7 | 📖 Линейная регрессия с использованием PyTorch           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-linear-regression-with-pytorch-20798'>Начать Лабораторию</a>                     |
 
 ## Больше
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Бесплатные туториалы](https://github.com/labex-labs/ml-free-tutorials)
 
