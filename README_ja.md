@@ -33,17 +33,17 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                   | 難易度   | 練習                                                                                                                          |
 |----------------|--------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 ディープラーニング入門                              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-deep-learning-20790'>ラボを開始</a>                      |
-|              2 | 📖 Tensorflow ガイド                                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-tensorflow-20777'>ラボを開始</a>                                |
-|              3 | 📖 TensorFlow を使った多層ニューラルネットワークの構築 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>ラボを開始</a> |
-|              4 | 📖 Keras ガイド                                        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-keras-20775'>ラボを開始</a>                                     |
-|              5 | 📖 Keras を使ってシーケンシャルモデルを構築する        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-build-a-sequential-model-with-keras-20751'>ラボを開始</a>                |
-|              6 | 📖 PyTorch のガイド                                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-pytorch-20776'>ラボを開始</a>                                   |
-|              7 | 📖 PyTorch を使った線形回帰                            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-with-pytorch-20798'>ラボを開始</a>                     |
+|              1 | 📖 ディープラーニング入門                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-deep-learning-20790'>ラボを開始</a>                      |
+|              2 | 📖 Tensorflow ガイド                                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-tensorflow-20777'>ラボを開始</a>                                |
+|              3 | 📖 TensorFlow を使った多層ニューラルネットワークの構築 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>ラボを開始</a> |
+|              4 | 📖 Keras ガイド                                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-keras-20775'>ラボを開始</a>                                     |
+|              5 | 📖 Keras を使ってシーケンシャルモデルを構築する        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-build-a-sequential-model-with-keras-20751'>ラボを開始</a>                |
+|              6 | 📖 PyTorch のガイド                                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-pytorch-20776'>ラボを開始</a>                                   |
+|              7 | 📖 PyTorch を使った線形回帰                            | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-with-pytorch-20798'>ラボを開始</a>                     |
 
 ## その他
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 無料チュートリアル](https://github.com/labex-labs/ml-free-tutorials)
 
