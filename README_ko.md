@@ -15,6 +15,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-whitesmoke?style=for-the-badge&logo=scikit-learn)
 
 
+## 연습
+
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                         |
+|----------|---------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 딥 러닝 소개                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-deep-learning-20790'>실습 시작</a>                      |
+|        2 | 📖 🟢 Tensorflow 가이드                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-tensorflow-20777'>실습 시작</a>                                |
+|        3 | 📖 🟢 TensorFlow 를 사용한 다층 신경망 구축 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>실습 시작</a> |
+|        4 | 📖 🔵 Keras 가이드                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-keras-20775'>실습 시작</a>                                     |
+|        5 | 📖 🔵 Keras 를 사용한 순차 모델 구축        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-build-a-sequential-model-with-keras-20751'>실습 시작</a>                |
+|        6 | 📖 🔵 PyTorch 가이드                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-pytorch-20776'>실습 시작</a>                                   |
+|        7 | 📖 🔵 PyTorch 를 이용한 선형 회귀           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-with-pytorch-20798'>실습 시작</a>                     |
+
 ## 환경
 
 LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
@@ -25,21 +37,9 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                         |
-|----------|------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 딥 러닝 소개                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-deep-learning-20790'>실습 시작</a>                      |
-|        2 | 📖 Tensorflow 가이드                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-tensorflow-20777'>실습 시작</a>                                |
-|        3 | 📖 TensorFlow 를 사용한 다층 신경망 구축 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>실습 시작</a> |
-|        4 | 📖 Keras 가이드                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-keras-20775'>실습 시작</a>                                     |
-|        5 | 📖 Keras 를 사용한 순차 모델 구축        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-build-a-sequential-model-with-keras-20751'>실습 시작</a>                |
-|        6 | 📖 PyTorch 가이드                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-guide-of-pytorch-20776'>실습 시작</a>                                   |
-|        7 | 📖 PyTorch 를 이용한 선형 회귀           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-with-pytorch-20798'>실습 시작</a>                     |
 
 ## 더 보기
 
