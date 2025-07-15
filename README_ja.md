@@ -15,6 +15,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-whitesmoke?style=for-the-badge&logo=scikit-learn)
 
 
+## 演習
+
+|   インデックス | 名前                                                      | 難易度   | 練習                                                                                                                          |
+|----------------|-----------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🟢 ディープラーニング入門                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-deep-learning-20790'>ラボを開始</a>                      |
+|              2 | 📖 🟢 Tensorflow ガイド                                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-tensorflow-20777'>ラボを開始</a>                                |
+|              3 | 📖 🟢 TensorFlow を使った多層ニューラルネットワークの構築 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>ラボを開始</a> |
+|              4 | 📖 🔵 Keras ガイド                                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-keras-20775'>ラボを開始</a>                                     |
+|              5 | 📖 🔵 Keras を使ってシーケンシャルモデルを構築する        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-build-a-sequential-model-with-keras-20751'>ラボを開始</a>                |
+|              6 | 📖 🔵 PyTorch のガイド                                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-pytorch-20776'>ラボを開始</a>                                   |
+|              7 | 📖 🔵 PyTorch を使った線形回帰                            | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-with-pytorch-20798'>ラボを開始</a>                     |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -25,21 +37,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                                   | 難易度   | 練習                                                                                                                          |
-|----------------|--------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 ディープラーニング入門                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-deep-learning-20790'>ラボを開始</a>                      |
-|              2 | 📖 Tensorflow ガイド                                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-tensorflow-20777'>ラボを開始</a>                                |
-|              3 | 📖 TensorFlow を使った多層ニューラルネットワークの構築 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>ラボを開始</a> |
-|              4 | 📖 Keras ガイド                                        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-keras-20775'>ラボを開始</a>                                     |
-|              5 | 📖 Keras を使ってシーケンシャルモデルを構築する        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-build-a-sequential-model-with-keras-20751'>ラボを開始</a>                |
-|              6 | 📖 PyTorch のガイド                                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-guide-of-pytorch-20776'>ラボを開始</a>                                   |
-|              7 | 📖 PyTorch を使った線形回帰                            | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-with-pytorch-20798'>ラボを開始</a>                     |
 
 ## その他
 
