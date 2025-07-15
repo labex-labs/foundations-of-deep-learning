@@ -15,6 +15,18 @@ Dans ce cours, vous apprendrez les concepts de base de l'apprentissage profond, 
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-whitesmoke?style=for-the-badge&logo=scikit-learn)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté   | Pratique                                                                                                                            |
+|---------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 🟢 Introduction à l'apprentissage profond                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-introduction-to-deep-learning-20790'>Commencer le Lab</a>                      |
+|       2 | 📖 🟢 Guide de TensorFlow                                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-tensorflow-20777'>Commencer le Lab</a>                                |
+|       3 | 📖 🟢 Construire un réseau neuronal multicouche avec Ten... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Commencer le Lab</a> |
+|       4 | 📖 🔵 Guide de Keras                                        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-keras-20775'>Commencer le Lab</a>                                     |
+|       5 | 📖 🔵 Construire un modèle séquentiel avec Keras            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-build-a-sequential-model-with-keras-20751'>Commencer le Lab</a>                |
+|       6 | 📖 🔵 Guide de PyTorch                                      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-pytorch-20776'>Commencer le Lab</a>                                   |
+|       7 | 📖 🔵 Régression linéaire avec PyTorch                      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-linear-regression-with-pytorch-20798'>Commencer le Lab</a>                     |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -25,21 +37,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                            |
-|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Introduction à l'apprentissage profond                | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-introduction-to-deep-learning-20790'>Commencer le Lab</a>                      |
-|       2 | 📖 Guide de TensorFlow                                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-tensorflow-20777'>Commencer le Lab</a>                                |
-|       3 | 📖 Construire un réseau neuronal multicouche avec Ten... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-building-multilayer-neural-network-with-tensorflow-20750'>Commencer le Lab</a> |
-|       4 | 📖 Guide de Keras                                        | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-keras-20775'>Commencer le Lab</a>                                     |
-|       5 | 📖 Construire un modèle séquentiel avec Keras            | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-build-a-sequential-model-with-keras-20751'>Commencer le Lab</a>                |
-|       6 | 📖 Guide de PyTorch                                      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-guide-of-pytorch-20776'>Commencer le Lab</a>                                   |
-|       7 | 📖 Régression linéaire avec PyTorch                      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-linear-regression-with-pytorch-20798'>Commencer le Lab</a>                     |
 
 ## Plus
 
